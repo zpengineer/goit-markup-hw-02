@@ -10,6 +10,8 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+
   background-color: var(--white-color);
   color: var(--primary-text-color);
 }
@@ -31,7 +33,6 @@ body {
 }
 .site-nav a {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
@@ -44,7 +45,6 @@ body {
 a[href^='mailto'],
 a[href^='tel'] {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
@@ -73,7 +73,6 @@ a[href^='tel']:focus {
 }
 .footer-contacts p {
   font-style: normal;
-  font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--white-color);
@@ -81,7 +80,6 @@ a[href^='tel']:focus {
 }
 .footer-contacts a {
   font-style: normal;
-  font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--footer-link-color);
@@ -110,14 +108,12 @@ a[href^='tel']:focus {
 }
 .advantage-cards h3 {
   font-weight: 700;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--title-text-color);
 }
 .advantage-cards p {
-  font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
 }
