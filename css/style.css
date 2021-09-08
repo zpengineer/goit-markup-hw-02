@@ -72,7 +72,6 @@ a[href^='tel']:focus {
   text-decoration: none;
 }
 .footer-contacts p {
-  font-style: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -80,7 +79,6 @@ a[href^='tel']:focus {
   margin: 0;
 }
 .footer-contacts a {
-  font-style: 400;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--footer-link-color);
@@ -114,7 +112,6 @@ a[href^='tel']:focus {
   color: var(--title-text-color);
 }
 .advantage-cards p {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -129,7 +126,6 @@ a[href^='tel']:focus {
   color: var(--title-text-color);
 }
 .team-cards p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
