@@ -151,6 +151,7 @@ a[href^='tel']:focus {
 .button {
   background-color: var(--button-bg-color);
   color: var(--title-text-color);
+  font-family: inherit;
 }
 .button.primary {
   background-color: var(--button-bg-color);
