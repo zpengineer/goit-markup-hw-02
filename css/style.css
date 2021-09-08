@@ -3,6 +3,7 @@
   --title-text-color: #212121;
   --accent-color: #2196f3;
   --white-color: #fff;
+  --black-color: #000;
   --section-bg-color: #2f303a;
   --button-bg-color: #f5f4fa;
   --footer-link-color: rgba(255, 255, 255, 0.6);
@@ -19,7 +20,7 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  color: #000;
+  color: var(--black-color);
   text-decoration: none;
 }
 .logo-text {
