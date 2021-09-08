@@ -72,6 +72,7 @@ a[href^='tel']:focus {
   text-decoration: none;
 }
 .footer-contacts p {
+  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -79,6 +80,8 @@ a[href^='tel']:focus {
   margin: 0;
 }
 .footer-contacts a {
+  font-style: normal;
+  font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--footer-link-color);
