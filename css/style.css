@@ -63,7 +63,7 @@ a[href^='tel']:focus {
 }
 .footer-logo {
   font-family: Raleway;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -71,7 +71,7 @@ a[href^='tel']:focus {
   text-decoration: none;
 }
 .footer-contacts p {
-  font-style: normal;
+  font-style: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -79,7 +79,7 @@ a[href^='tel']:focus {
   margin: 0;
 }
 .footer-contacts a {
-  font-style: normal;
+  font-style: 400;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--footer-link-color);
@@ -98,14 +98,14 @@ a[href^='tel']:focus {
 }
 /* Стили секции преимуществ */
 .section-title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
   color: var(--title-text-color);
 }
 .advantage-cards h3 {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
@@ -113,7 +113,7 @@ a[href^='tel']:focus {
   color: var(--title-text-color);
 }
 .advantage-cards p {
-  font-weight: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -128,7 +128,7 @@ a[href^='tel']:focus {
   color: var(--title-text-color);
 }
 .team-cards p {
-  font-weight: normal;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -137,7 +137,7 @@ a[href^='tel']:focus {
 
 /* Стили секции примера работ */
 .portfolio-cards h3 {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
@@ -173,7 +173,7 @@ a[href^='tel']:focus {
 .button.secondary {
   background-color: var(--accent-color);
   color: var(--white-color);
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
