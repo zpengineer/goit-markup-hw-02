@@ -96,6 +96,7 @@ a[href^='tel']:focus {
   line-height: 1.36;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  text-align: center;
   color: var(--white-color);
 }
 /* Стили секции преимуществ */
@@ -104,6 +105,7 @@ a[href^='tel']:focus {
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
+  text-align: center;
   color: var(--title-text-color);
 }
 .advantage-cards h3 {
